@@ -1,2 +1,0 @@
-# IAmLearning
-Learning repo

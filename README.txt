@@ -1,1 +1,0 @@
-Revisiting some of the basic concepts and code small examples..
